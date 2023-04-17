@@ -18,11 +18,11 @@
     <img src="https://img.shields.io/badge/Status-Complete-brightgreen" alt="Status Complete">
   </a>
   
-<!-- ## Google Lighthouse
+## Google Lighthouse
 ![](https://img.shields.io/badge/Performance-99%25-brightgreen)
-![](https://img.shields.io/badge/Accessibility-98%25-brightgreen)
+![](https://img.shields.io/badge/Accessibility-97%25-brightgreen)
 ![](https://img.shields.io/badge/Best%20Practices-100%25-brightgreen)
-![](https://img.shields.io/badge/SEO-92%25-brightgreen) -->
+![](https://img.shields.io/badge/SEO-100%25-brightgreen)
 </div>
 
 ![](./preview.jpg)
