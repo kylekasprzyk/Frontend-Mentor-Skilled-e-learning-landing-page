@@ -3,7 +3,7 @@
   <h2>
     <a href="https://www.frontendmentor.io/challenges/skilled-elearning-landing-page-S1ObDrZ8q"><strong>Frontend Mentor Challenge</strong></a>  </h2>
     <p>
-    <a href="#">My Solution</a>
+    <a href="https://kylekasprzyk.github.io/Frontend-Mentor-Skilled-e-learning-landing-page/">My Solution</a>
   </p>
 </div>
 
@@ -36,8 +36,8 @@ This is a solution to the [Skilled e-learning landing page challenge on Frontend
 
 ## Links
 
-- [Solution URL](#)
-- [Live Site URL](#)
+- [Solution URL](https://www.frontendmentor.io/solutions/skilled-elearning-landing-page-solution-ZkFakX2Aht)
+- [Live Site URL](https://kylekasprzyk.github.io/Frontend-Mentor-Skilled-e-learning-landing-page/)
 
 ## Built with
 
